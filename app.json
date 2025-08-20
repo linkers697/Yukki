@@ -1,7 +1,7 @@
 {
   "name": "ᴄʜᴧᴍᴘᴜ ꭙ ᴍᴜsɪᴄ",
   "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs.",
-  "logo": "https://telegra.ph/file/43b46c02ace4d9b83c96f.jpg",
+  "logo": "https://graph.org/file/af8710ac4089763a06a2f-e26e459291e7d8582b.jpg",
   "keywords": [
   "python3",
   "telegram",
@@ -41,7 +41,7 @@
       },
       "OWNER_ID": {
         "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ..",
-        "value": "6399386263",
+        "value": "7569863273",
         "required": true
       },
       "STRING_SESSION": {
@@ -66,7 +66,7 @@
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "https://github.com/TheChampu/ChampuMusic",
+        "value": "https://github.com/linkers697/ChampuMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
