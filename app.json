@@ -66,7 +66,7 @@
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "https://github.com/linkers697/ChampuMusic",
+        "value": "https://github.com/linkers697/Champubhai",
         "required": true
       },
       "UPSTREAM_BRANCH": {
