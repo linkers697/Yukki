@@ -41,7 +41,7 @@
       },
       "OWNER_ID": {
         "description": "ᴛʜᴇ ᴜsᴇʀ ɪᴅ ᴏғ ᴜsᴇʀ ᴡʜᴏᴍ ʏᴏᴜ ᴡᴏᴜʟᴅ ʟɪᴋᴇ ᴛᴏ ᴀᴅᴅ ᴀs ᴏᴡɴᴇʀ..",
-        "value": "7569863273",
+        "value": "7685184136",
         "required": true
       },
       "STRING_SESSION": {
@@ -66,7 +66,7 @@
       },
       "UPSTREAM_REPO": {
         "description": " ᴘᴜᴛ ʏᴏᴜʀ ʀᴇᴘᴏ ʟɪɴᴋ ʜᴇʀᴇ .",
-        "value": "https://github.com/linkers697/Champubhai",
+        "value": "https://github.com/linkers697/Yukki",
         "required": true
       },
       "UPSTREAM_BRANCH": {
